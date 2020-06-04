@@ -140,7 +140,7 @@ GOVERNING LAW
 
   
 
-These Terms of Use and your use of the Site are governed by and construed in accordance with the Indian Law applicable to agreements made and to be entirely performed within the State of Delhi, without regard to its conflict of law principles.
+These Terms of Use and your use of the Site are governed by and construed in accordance with the Indian Law applicable to agreements made and to be entirely performed within New Delhi, without regard to its conflict of law principles.
 
   
 
