@@ -2,17 +2,17 @@ TERMS OF USE
 
   
 
-Last updated  04/15/2020
+Last updated  06/03/2020
 
   
 
-AGREEMENT TO TERMS
+**AGREEMENT TO TERMS**
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and ND CyberLaw ("Law Firm", "we", "us", or "our"), concerning your access to and use of the [http://www.ndcyberlaw.com](http://www.ndcyberlaw.com/) website, app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and ND Cyberlaw ("Law Firm", "we", "us", or "our"), concerning your access to and use of the [http://www.ndcyberlaw.com](http://www.ndcyberlaw.com/) website, app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site"). You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
   
 
-By using ND CyberLaw, you're agreeing to be bound by all of these Terms and Conditions ("Terms and Conditions" or "Terms of Use" or "Terms") INCLUDING THE BINDING ARBITRATION AND CLASS ACTION WAIVER DETAILED BELOW.
+By using ND Cyberlaw, you're agreeing to be bound by all of these Terms and Conditions ("Terms and Conditions" or "Terms of Use" or "Terms") INCLUDING THE BINDING ARBITRATION.
 
 Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
 
@@ -26,16 +26,16 @@ The Site is intended for users who are at least 18 years old. Persons under the 
 
 CONFIDENTIALITY
 
-1.  CONFIDENTIALITY of the information provided via ND CyberLaw app is MUST and please exit now if you cannot maintain confidentiality of this information.
+1.  CONFIDENTIALITY of the information provided via ND Cyberlaw app is MUST and please exit now if you cannot maintain confidentiality of this information.
     
-2.  Information provided by ND CyberLaw app and other modes of communication by ND CyberLaw is strictly for your personal consumption only. You MUST not share this with friends, family, colleagues in any form or a modification, subset and derivative of these notes. You cannot reference this information in any possible way except strictly for single person personal use.
+2.  Information provided by ND Cyberlaw app and other modes of communication by ND Cyberlaw is strictly for your personal consumption only. You MUST not share this with friends, family, colleagues in any form or a modification, subset and derivative of these notes. You cannot reference this information in any possible way except strictly for single person personal use.
     
 3.  Copying, sharing, saving or transmitting this information in any form (digital or manual) to another individual is strictly prohibited.
     
-4.  You may not reproduce, retransmit, disseminate, sell, publish, broadcast, nor shall the Information be used in connection with creating, promoting, trading, marketing Investment Products without the express written consent of ND CyberLaw or its Information Providers. You are only entitled to use the Information it contains for your private, non-commercial use only.
+4.  You may not reproduce, retransmit, disseminate, sell, publish, broadcast, nor shall the Information be used in connection with creating, promoting, trading, marketing Investment Products without the express written consent of ND Cyberlaw or its Information Providers. You are only entitled to use the Information it contains for your private, non-commercial use only.
     
 
-## Copyright © 2020 ND CyberLaw. No part of this publication and information provided via ND CyberLaw app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from ND CyberLaw.
+## Copyright © 2020 ND Cyberlaw. No part of this publication and information provided via ND Cyberlaw app may be reproduced, stored in a retrieval system, used in spreadsheet or document, or transmitted in any form or by any means - electronic, mechanical, photocopying, recording or otherwise - without written permission from ND Cyberlaw.
 
   
   
@@ -171,11 +171,11 @@ DISCLAIMER
 
 THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR LEGAL SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
-Copyright 2020, ND CyberLaw, All Rights Reserved
+Copyright 2020, ND Cyberlaw, All Rights Reserved
 
 ## Copyright
 
-All Information available through ND CyberLaw is the property of ND CyberLaw or its Information Providers and is protected by copyright and intellectual property laws. All rights reserved.
+All Information available through ND Cyberlaw is the property of ND Cyberlaw or its Information Providers and is protected by copyright and intellectual property laws. All rights reserved.
 
   
 INDEMNIFICATION
@@ -220,6 +220,6 @@ In order to resolve a complaint regarding the Site or to receive further informa
 
   
 
-ND CyberLaw
+ND Cyberlaw
 
 nisheeth@ndcyberlaw.com
