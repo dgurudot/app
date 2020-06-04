@@ -1,10 +1,10 @@
 **PRIVACY POLICY**
 
-**Last updated  04/15/2020**
+**Last updated  06/03/2020**
 
   
 
-Thank you for choosing to be part of our community at  ND CyberLaw  ("**Law Firm**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  nisheeth@ndcyberlaw.com
+Thank you for choosing to be part of our community at  ND Cyberlaw  ("**Law Firm**", "**we**", "**us**", or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our  policy, or our practices with regards to your personal information, please contact us at  nisheeth@ndcyberlaw.com
 
 When you visit our  and use our services, you trust us with your personal information. We take your privacy very seriously. In this  privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this  privacy policy that you do not agree with, please discontinue use of our  and our services.
 
@@ -112,7 +112,7 @@ When we have no ongoing legitimate service need to process your personal informa
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the ND CyberLaw mobile application or service, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the  mobile application. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  nisheeth@ndcyberlaw.com
+We do not knowingly solicit data from or market to children under 18 years of age. By using the ND Cyberlaw mobile application or service, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the  mobile application. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  nisheeth@ndcyberlaw.com
 
   
 
