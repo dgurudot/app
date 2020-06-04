@@ -20,7 +20,7 @@ This  privacy policy applies to all information collected through our  and/or an
 
 **_In Short:_** _We collect personal information that you provide to us._
 
-We collect personal information that you voluntarily provide to us when  registering at the  expressing an interest in obtaining information about us and services, when participating in activities on the  (such as posting messages in our online forums or entering competitions, contests or giveaways)  or otherwise contacting us.
+We collect personal information that you voluntarily provide to us when  registering at the  expressing an interest in obtaining information about us and services or otherwise contacting us.
 
 The personal information that we collect depends on the context of your interactions with us, the choices you make and the services and features you use. The personal information we collect can include the following:
 
@@ -31,7 +31,7 @@ All personal information that you provide to us must be true, complete and accur
 **  
 Information automatically collected**
 
-**_In Short:_** _Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application.
+**_In Short:_** Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application.
 
 We automatically collect certain information when you visit, use or navigate the website or use mobile application. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our  and other technical information. This information is primarily needed to maintain the security and operation of our services , and for our internal analytics and reporting purposes.
 
@@ -69,7 +69,7 @@ More specifically, we may need to process your data or share your personal infor
 
 **_In Short:_** _We may use cookies to collect and store your information._
 
-We may use cookies to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
+We may use cookies to access or store information. You can refuse certain cookies.
 
   
 
@@ -87,7 +87,7 @@ We will use the information we receive only for the purposes that are described 
 
 **_In Short:_** _We may transfer, store, and process your information in countries other than your own._
 
-Our servers are located in India and United States. If you are accessing our  from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WILL YOUR INFORMATION BE SHARED WITH ANYONE?]" above), in  and other countries.
+Our servers are located in India and United States. If you are accessing our service from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WILL YOUR INFORMATION BE SHARED WITH ANYONE?]" above), in  and other countries.
   
 
 **6. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
