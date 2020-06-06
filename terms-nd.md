@@ -171,6 +171,22 @@ DISCLAIMER
 
 THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR LEGAL SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
 
+I HAVE READ THE DISCLAIMER AND AGREE TO IT.
+
+User Acknowledgement
+
+By proceeding further and clicking on the "AGREE" button herein below, I acknowledge that I of my own accord wish to know more about ND Cyberlaw for my case information, law knowledge, and latest Case Laws information, Cyber domain and other relevant information. I further acknowledge having read and understood the Disclaimer below.
+
+Disclaimer
+
+The rules of the Bar Council of India prohibit Law Firms from advertising and soliciting work through communication in the public domain. This Information app is meant solely for the purpose of information and not for the purpose of advertising. ND Cyberlaw does not intend to solicit clients through this website. We do not take responsibility for decisions taken by the user/reader based solely on the information provided in the Information app.
+
+ND Cyberlaw further assumes no liability for the interpretation and/or use of the information contained on this app, nor does it offer a warranty of any kind, either expressed or implied. ND Cyberlaw is not responsible for, and makes no representations or warranties about, the contents of Web sites to which links may be provided from this Information app.
+
+Furthermore, the owner of this Information app does not wish to represent anyone desiring representation based solely upon viewing this Information app or in a country/state where this Information app fails to comply with all laws and ethical rules of that state. Finally, the user/reader is warned that the use of Internet site/app for confidential or sensitive information is susceptible to risks of lack of confidentiality associated with sending email/using app over the Internet.
+
+I further acknowledge having read and understood the Disclaimer.
+
 Copyright 2020, ND Cyberlaw, All Rights Reserved
 
 ## Copyright
