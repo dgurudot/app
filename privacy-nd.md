@@ -10,7 +10,7 @@ When you visit our  and use our services, you trust us with your personal inform
 
 This  privacy policy applies to all information collected through our  and/or any related legal services or events (we refer to them collectively in this  privacy policy as the "**Services**").
 
-**Please read this  privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
+**Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
@@ -22,8 +22,9 @@ We collect personal information that you voluntarily provide to us when  registe
 
 The personal information that we collect depends on the context of your interactions with us, the choices you make and the services and features you use. The personal information we collect can include the following:
 
-**Social Media Login Data** 
-We may provide you with the option to register using social media account details, like your Google account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS]" below.
+**Google Login Data** 
+
+We may provide you with the option to register using social media account details, like your Google account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR GOOGLE LOGINS]" below.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
