@@ -175,7 +175,7 @@ I HAVE READ THE DISCLAIMER AND AGREE TO IT.
 
 User Acknowledgement
 
-By proceeding further and clicking on the "AGREE" button herein below, I acknowledge that I of my own accord wish to know more about ND Cyberlaw for my case information, law knowledge, and latest Case Laws information, Cyber domain and other relevant information. I further acknowledge having read and understood the Disclaimer below.
+By proceeding further, I acknowledge that I of my own accord wish to know more about ND Cyberlaw for my case information, law knowledge, and latest Case Laws information, Cyber domain and other relevant information. I further acknowledge having read and understood the Disclaimer below.
 
 Disclaimer
 
