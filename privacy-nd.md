@@ -14,9 +14,7 @@ This  privacy policy applies to all information collected through our  and/or an
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
-  
-
-**Personal information you disclose to us**
+Personal information you disclose to us
 
 **_In Short:_** _We collect personal information that you provide to us._
 
@@ -24,12 +22,12 @@ We collect personal information that you voluntarily provide to us when  registe
 
 The personal information that we collect depends on the context of your interactions with us, the choices you make and the services and features you use. The personal information we collect can include the following:
 
-**Social Media Login Data.** We may provide you with the option to register using social media account details, like your Google account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS]" below.
+**Social Media Login Data** 
+We may provide you with the option to register using social media account details, like your Google account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS]" below.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
-**  
-Information automatically collected**
+**Information automatically collected**
 
 **_In Short:_** Some information such as IP address and/or browser and device characteristics is collected automatically when you visit our website or use mobile application.
 
@@ -134,7 +132,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
   
 
-**12. DO WE MAKE UPDATES TO THIS POLICY?**
+**11. DO WE MAKE UPDATES TO THIS POLICY?**
 
 **_In Short:_** _Yes, we will update this policy as necessary to stay compliant with relevant laws._
 
@@ -142,11 +140,11 @@ We may update this  privacy policy from time to time. The updated version will b
 
   
 
-**13. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
+**12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
 If you have questions or comments about this policy, you may email us at  nisheeth@ndcyberlaw.com
 
   
-**HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+**13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
 Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send us an email at nisheeth@ndcyberlaw.com. We will respond to your request within 30 days.
